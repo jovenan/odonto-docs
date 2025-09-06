@@ -5,6 +5,13 @@
 html {
   color-scheme: light;
   font-family: 'Questrial', Arial, sans-serif;
+  color: var(--color-neutral-900);
+}
+
+body {
+    color-scheme: light;
+    font-family: 'Questrial', Arial, sans-serif;
+    color: var(--color-neutral-900);
 }
 
 @theme static {

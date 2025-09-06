@@ -8,7 +8,7 @@
             <div class="absolute top-2 right-1 w-1 h-1 bg-primary-700 rounded-full"/>
           </div>
         </div>
-        <h1 class="text-2xl font-bold text-default">Odonto Docs</h1>
+        <h1 class="text-2xl font-bold ">Odonto Docs</h1>
       </div>
       <p class="text-muted mt-2">Sistema de receituário odontológico digital</p>
     </div>

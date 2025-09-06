@@ -31,7 +31,7 @@ const removeMedication = async (medicationId) => {
 </script>
 <template>
   <div class="bg-card rounded-lg shadow-sm border border-neutral-200 p-6 h-full">
-    <h2 class="text-xl font-semibold text-default mb-6">Medications by Category</h2>
+    <h2 class="text-xl font-semibold  mb-6">Medicamentos</h2>
     
     <div class="space-y-4 max-h-[600px] overflow-y-auto">
       <UAccordion 
@@ -48,7 +48,7 @@ const removeMedication = async (medicationId) => {
               class="flex items-center justify-between p-3 bg-surface rounded-lg border border-neutral-200 hover:border-primary-300 transition-colors"
             >
               <div class="flex-1">
-                <h4 class="font-medium text-default">{{ medication.name }}</h4>
+                <h4 class="font-medium ">{{ medication.name }}</h4>
                 <p class="text-sm text-muted mt-1">{{ medication.dosage }}</p>
                 <p class="text-xs text-muted mt-1">{{ medication.description }}</p>
               </div>

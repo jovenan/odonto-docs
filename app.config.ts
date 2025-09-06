@@ -54,7 +54,7 @@ export default defineAppConfig({
     
     formGroup: {
       slots: {
-        label: 'text-default font-medium'
+        label: ' font-medium'
       }
     },
     
